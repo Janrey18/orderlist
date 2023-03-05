@@ -1,0 +1,62 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(image/zorogif.gif), url(image/zoro);;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    color:rgb(12, 6, 6);
+}
+
+h3{
+    color: rgb(2, 0, 0);
+    font-size: 20px;
+    font-style: initial;
+    text-align: center;
+}
+h4{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-style: initial;
+    text-align: left;
+}
+h5{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-style: initial;
+    text-align: right;
+}
+
+ol{
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(0, 0, 0);
+}
+
+.nav{
+    background: transparent;
+    margin-left: -38px;
+}
+.nav{
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: #000000;
+    font-size: 1.7em;
+    display: block;
+    float: center;
+}
+.nav a :hover{
+    background: #ddd;
+    color: rgb(0, 0, 0);
+
+
+}
